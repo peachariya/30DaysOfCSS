@@ -1,6 +1,7 @@
 body {
-    background-color: #E67BAB;
-    
+    background-color: skyblue;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 .center {
@@ -23,7 +24,7 @@ body {
     background-color: transparent;
     box-shadow: 0 0 5px rgba(224, 220, 220, 0.253);
     font-family: 'Ubuntu Mono', monospace;
-    color: white;
+    color: snow
     font-size: 1.5em;
     width: 200px;
     height: 200px;
